@@ -1,0 +1,9 @@
+google lighthouse
+Yoast plugin voor seo
+Template kiezen op basis van snelheden.
+Pagespeed insights, zeker kijken naar mobile > google kijkt enkel naar deze.
+Elementor met betaalde templates.
+Call to action duidelijk plaatsen, 
+Formulier met duidelijke directie en maar enkele velden. (e.g. Naam, mail, tel, bericht)
+7 seo elementen: URL, Metatitle, Meta descrp., H1, H2, Content (minstens 450 woorden), Alt-tag fotos.
+Text zekers belangrijk.

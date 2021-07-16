@@ -1,0 +1,338 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: XShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-22 14:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: xshop"
+
+#. number of items in the mini cart.
+#: inc/woo-items/xshop-woocommerce.php:54
+#, php-format
+msgid "+%d"
+msgid_plural "+%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/woo-items/xshop-woocommerce.php:121
+msgid "Add shop widgets here."
+msgstr ""
+
+#: functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "All XShop theme settings"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Classic Style"
+msgstr ""
+
+#: inc/woo-items/xshop-woocommerce.php:105
+msgid "Close"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer.php:80
+msgid "Container type"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:46
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer.php:87 inc/customizer.php:149
+msgid "Full width Container"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Grid Style"
+msgstr ""
+
+#: inc/customizer.php:46 inc/customizer.php:59
+msgid "Header Address One"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Hide All Pages"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Hide Only Front Page"
+msgstr ""
+
+#. URI of the theme
+msgid "https://github.com/noralam/x-shop"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/nalam-1/"
+msgstr ""
+
+#: footer.php:17
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: single.php:40
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "No Sidebar"
+msgstr ""
+
+#. Author of the theme
+msgid "Noor Alam"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Page Container type"
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content.php:59
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: single.php:39
+msgid "Previous:"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:20
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/content-grid.php:31
+msgid "Read More "
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Select Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Select Blog Style"
+msgstr ""
+
+#: inc/woo-items/xshop-woocommerce.php:119
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woo-items/xshop-woocommerce.php:92
+msgid "Shopping Cart "
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Show all pages"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Show Page header"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:86 inc/customizer.php:148
+msgid "Standard Container"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:26
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/recomended-plugin.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#. Name of the theme
+msgid "XShop"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "XShop Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "XShop Header Settings"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"XShop is an awesome new WordPress Shop and Blog Theme. XShop is flexible, "
+"easily customizable, super-fast, lightweight and a modern WordPress theme. "
+"It provides a very unique look with an extra post layout. XShop is a super-"
+"fast WordPress theme. Best Suitable for creating any type of website such a "
+"shop, blog, store, car workshop, life coach, barbershop, furniture shop, "
+"yoga, resume, charity, digital marketing, agency, etc. XShop works with any "
+"of your favorite page builders like Elementor, Visual Composer, SiteOrigin, "
+"Divi, Brizy etc."
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "XShop Page Settings"
+msgstr ""
+
+#: inc/customizer.php:68 inc/customizer.php:130
+msgid "XShop theme blog settings"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "XShop theme header settings"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "XShop Theme settings"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "You can set standard container or full width container for page. "
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "You can set standard container or full width container. "
+msgstr ""

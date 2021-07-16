@@ -1,0 +1,46 @@
+/*#{$wrap} {
+    clear: both;
+}
+
+.mega-menu-columns-1-of-6 a.mega-menu-link:hover, a.mega-menu-link:focus  {
+	background-color: #ddd !important;
+}
+
+.mega-menu-columns-1-of-6 a.mega-menu-link {
+	font-weight: initial !important;
+	font-size: 14px !important;
+	text-transform:none !important;
+	padding: 15px !important;
+}
+
+.mega-menu-columns-1-of-6 {
+	padding: 0 !important;
+}
+
+.mega-menu-columns-1-of-6 .mega-menu-item-has-children {
+	margin-top: 10px;
+	font-weight: bold;
+}
+*/
+
+#footer-widgets {
+  background: linear-gradient(135deg,#0f9eb9,#a4ce39) padding-box,linear-gradient(135deg,#0f9eb9,#a4ce39) border-box !important;
+}
+
+.floating_add_to_cart_button:hover {
+  cursor: pointer !important;
+}
+
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+	background: linear-gradient(135deg,#0f9eb9,#a4ce39) padding-box,linear-gradient(135deg,#0f9eb9,#a4ce39) border-box !important;
+	transition: .5s ease;
+  border: none !important;
+  border-radius: 2px !important;
+  padding: 10px !important;
+}
+
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover {
+  background: linear-gradient(135deg,#0f9eb9,#0f9eb9) padding-box,linear-gradient(135deg,#0f9eb9,#0f9eb9) border-box !important;
+	transform: scale(1.05);
+  border: none !important;
+}
