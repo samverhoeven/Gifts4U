@@ -1,28 +1,3 @@
-/*#{$wrap} {
-    clear: both;
-}
-
-.mega-menu-columns-1-of-6 a.mega-menu-link:hover, a.mega-menu-link:focus  {
-	background-color: #ddd !important;
-}
-
-.mega-menu-columns-1-of-6 a.mega-menu-link {
-	font-weight: initial !important;
-	font-size: 14px !important;
-	text-transform:none !important;
-	padding: 15px !important;
-}
-
-.mega-menu-columns-1-of-6 {
-	padding: 0 !important;
-}
-
-.mega-menu-columns-1-of-6 .mega-menu-item-has-children {
-	margin-top: 10px;
-	font-weight: bold;
-}
-*/
-
 #footer-widgets {
   background: linear-gradient(135deg,#0f9eb9,#a4ce39) padding-box,linear-gradient(135deg,#0f9eb9,#a4ce39) border-box !important;
 }
@@ -43,4 +18,58 @@
   background: linear-gradient(135deg,#0f9eb9,#0f9eb9) padding-box,linear-gradient(135deg,#0f9eb9,#0f9eb9) border-box !important;
 	transform: scale(1.05);
   border: none !important;
+}
+
+.underlined_header strong{
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.underlined_header strong:after {
+  content: "";
+  background: #0f9eb9;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  width: 75%;
+  transition: all .3s;
+}
+
+.oceanwp-custom-links a:hover {
+  color: white !important;
+}
+
+#ocean_contact_info-6 > ul > li > i {
+  border-color: transparent !important;
+  color: white !important;
+}
+
+
+#mega-menu-main_menu > #mega-menu-item > a {
+  font-size: 15px !important;
+}
+
+.footer-box .footer-widget .widget-title {
+  font-weight: bold !important;
+  font-size: 1.7rem;
+  border-color: white;
+}
+
+.oceanwp-about-me .oceanwp-about-me-avatar img {
+  border-radius: 0% !important;
+  max-width: 200px;
+}
+
+.oceanwp-about-me {
+  text-align: left !important;
+}
+
+.oceanwp-about-me-text {
+  font-weight: bold !important;
+  font-size: 1.7rem;
+}
+
+.oceanwp-about-me .oceanwp-about-me-avatar, .oceanwp-about-me .oceanwp-about-me-social {
+  margin-top: 0px !important;
 }
